@@ -1,0 +1,112 @@
+ZENDS Communications
+Powering Digital Life Everywhere
+Company Overview
+ZENDS Communications is a next-generation global telecom and digital services provider delivering mobile
+connectivity,  broadband,  enterprise  networking,  cloud  infrastructure,  IoT,  cybersecurity,  and  digital
+platforms. ZENDS serves both individual consumers and enterprise customers across multiple regions,
+enabling personal communication, business operations, cloud computing, and smart-city services. ZENDS
+operates across consumer telecom, enterprise telecom, cloud infrastructure, smart city and IoT, and digital
+media and collaboration. ZENDS follows a service-oriented architecture in which every product is supported
+by digital platforms, billing engines, customer portals, and API-based provisioning systems.
+Product Group Hierarchy
+ZENDS organizes its offerings into 5 product groups, each containing multiple product categories, which in
+turn contain products and services spanning across 4 countries: India, USA, Singapore, and Thailand.
+1. Mobile Connectivity
+ZENDS provides prepaid and postpaid mobile services using a 5G-enabled telecom network.
+The prepaid mobile plans include Prepaid Basic with 5GB, priced at $60 in the USA, $36 in India, $66 in
+Singapore, and $48 in Thailand for individual users, and $48 in the USA, $28 in India, $56 in Singapore, and
+$38 in Thailand for enterprise customers. Prepaid Plus with 20GB is priced at $80 in the USA, $48 in India,
+$88  in  Singapore,  and  $64  in  Thailand  for  individual  users,  and  $60  in  the  USA,  $29  in  India,  $76  in
+Singapore, and $52 in Thailand for enterprise customers. Prepaid Unlimited is priced at $100 in the USA,
+$60 in India, $110 in Singapore, and $80 in Thailand for individual users, and $80 in the USA, $50 in India,
+$90 in Singapore, and $70 in Thailand for enterprise customers.
+Postpaid Silver with 50GB is priced at $70 in the USA, $42 in India, $77 in Singapore, and $56 in Thailand for
+individual users, and $60 in the USA, $36 in India, $66 in Singapore, and $48 in Thailand for enterprise
+customers. Postpaid Gold with 100GB is priced at $100 in the USA, $60 in India, $110 in Singapore, and $80
+in Thailand for individual users, and $80 in the USA, $50 in India, $90 in Singapore, and $70 in Thailand for
+enterprise customers. Postpaid Platinum with unlimited data and international calls is priced at $120 in the
+USA, $72 in India, $132 in Singapore, and $96 in Thailand for individual users, and $110 in the USA, $66 in
+India, $121 in Singapore, and $88 in Thailand for enterprise customers.
+Services  include  voice  calling,  SMS,  5G  mobile  data,  international  roaming,  voicemail,  SIM  and  eSIM
+provisioning, customer support, mobile app management, and plan upgrades. Mobile connectivity also
+1
+includes plan upgrade options, add-on data packages, roaming packages, and value-added services like
+mobile insurance and family plan support.
+2. Home & Office Internet
+ZENDS  provides  high-speed  fiber  and  wireless  broadband  for  homes  and  offices.  Home  broadband
+products include ZENDFiber Home 100 Mbps priced at $30 in the USA, $18 in India, $33 in Singapore, and
+$24 in Thailand for individual users, and $25 in the USA, $15 in India, $27 in Singapore, and $20 in Thailand
+for enterprise customers. ZENDFiber Home 300 Mbps is priced at $50 in the USA, $30 in India, $55 in
+Singapore, and $40 in Thailand for individual users, and $45 in the USA, $27 in India, $49 in Singapore, and
+$36 in Thailand for enterprise customers. ZENDFiber Home 1 Gbps is priced at $80 in the USA, $48 in India,
+$88  in  Singapore,  and  $64  in  Thailand  for  individual  users,  and  $70  in  the  USA,  $42  in  India,  $77  in
+Singapore, and $56 in Thailand for enterprise customers.
+Office broadband includes ZENDOffice Net 200 priced at $60 in the USA, $36 in India, $66 in Singapore, and
+$48 in Thailand for individual users, and $55 in the USA, $33 in India, $61 in Singapore, and $44 in Thailand
+for enterprise customers. ZENDOffice Net 500 is priced at $90 in the USA, $54 in India, $99 in Singapore,
+and $72 in Thailand for individual users, and $80 in the USA, $48 in India, $88 in Singapore, and $64 in
+Thailand for enterprise customers. ZENDOffice Net 1G is priced at $150 in the USA, $90 in India, $165 in
+Singapore, and $120 in Thailand for individual users, and $130 in the USA, $78 in India, $143 in Singapore,
+and $104 in Thailand for enterprise customers.
+Services include fiber connectivity, router and WiFi equipment, installation, 24×7 technical support, network
+monitoring, setup guidance, troubleshooting, optional bundled plans with mobile connectivity, and SLA-
+backed support for enterprise customers.
+3. Business Connectivity
+ZENDBiz Connect 100 is priced at $70 in the USA, $42 in India, $77 in Singapore, and $56 in Thailand for
+individual users, and $60 in the USA, $36 in India, $66 in Singapore, and $48 in Thailand for enterprise
+customers. ZENDBiz Connect 500 is priced at $120 in the USA, $72 in India, $132 in Singapore, and $96 in
+Thailand for individual users, and $100 in the USA, $60 in India, $110 in Singapore, and $80 in Thailand for
+enterprise customers. ZENDBiz Connect 1G is priced at $200 in the USA, $120 in India, $220 in Singapore,
+and $160 in Thailand for individual users, and $180 in the USA, $108 in India, $198 in Singapore, and $144 in
+Thailand for enterprise customers. ZENDEnterprise Ultra is priced at $300 in the USA, $180 in India, $330 in
+Singapore, and $240 in Thailand for individual users, and $280 in the USA, $168 in India, $308 in Singapore,
+and $224 in Thailand for enterprise customers. ZENDEnterprise Dedicated is priced at $500 in the USA, $300
+in India, $550 in Singapore, and $400 in Thailand for individual users, and $450 in the USA, $270 in India,
+$495 in Singapore, and $360 in Thailand for enterprise customers.
+Services  include  dedicated  bandwidth,  MPLS  connectivity,  SLA-backed  uptime,  priority  troubleshooting,
+customized network solutions for enterprises, and optional security and monitoring add-ons.
+2
+4. Cloud & Data Center Services
+ZENDCloud VM Basic is priced at $40 in the USA, $24 in India, $44 in Singapore, and $32 in Thailand for
+individual users, and $35 in the USA, $21 in India, $38 in Singapore, and $28 in Thailand for enterprise
+customers. ZENDCloud VM Pro is priced at $80 in the USA, $48 in India, $88 in Singapore, and $64 in
+Thailand for individual users, and $70 in the USA, $42 in India, $77 in Singapore, and $56 in Thailand for
+enterprise  customers.  ZENDCloud  VM  Enterprise  is  priced  at  $150  in  the  USA,  $90  in  India,  $165  in
+Singapore, and $120 in Thailand for individual users, and $130 in the USA, $78 in India, $143 in Singapore,
+and $104 in Thailand for enterprise customers. ZENDStorage 1TB is priced at $20 in the USA, $12 in India,
+$22 in Singapore, and $16 in Thailand for individual users, and $15 in the USA, $9 in India, $16 in Singapore,
+and $12 in Thailand for enterprise customers. ZENDStorage 10TB is priced at $120 in the USA, $72 in India,
+$132 in Singapore, and $96 in Thailand for individual users, and $100 in the USA, $60 in India, $110 in
+Singapore, and $80 in Thailand for enterprise customers. ZENDArchive Storage is priced at $50 in the USA,
+$30 in India, $55 in Singapore, and $40 in Thailand for individual users, and $40 in the USA, $24 in India, $44
+in Singapore, and $32 in Thailand for enterprise customers.
+Services  include  virtual  machines,  file  storage,  backup  and  disaster  recovery,  cloud  networking,  cloud
+migration support, API integrations, monitoring, and dedicated enterprise support.
+5. IoT & Smart Solutions
+Products include ZENDSmart Traffic priced at $100 in the USA, $60 in India, $110 in Singapore, and $80 in
+Thailand for individual users, and $90 in the USA, $54 in India, $99 in Singapore, and $72 in Thailand for
+enterprise customers. ZENDSmart Lighting is priced at $80 in the USA, $48 in India, $88 in Singapore, and
+$64 in Thailand for individual users, and $70 in the USA, $42 in India, $77 in Singapore, and $56 in Thailand
+for enterprise customers. ZENDSmart Parking is priced at $60 in the USA, $36 in India, $66 in Singapore,
+and $48 in Thailand for individual users, and $50 in the USA, $30 in India, $55 in Singapore, and $40 in
+Thailand for enterprise customers. ZENDIndustrial Sensor is priced at $120 in the USA, $72 in India, $132 in
+Singapore, and $96 in Thailand for individual users, and $100 in the USA, $60 in India, $110 in Singapore,
+and $80 in Thailand for enterprise customers. ZENDFleet IoT is priced at $150 in the USA, $90 in India, $165
+in  Singapore,  and  $120  in  Thailand  for  individual  users,  and  $130  in  the  USA,  $78  in  India,  $143  in
+Singapore, and $104 in Thailand for enterprise customers.
+Services include sensor connectivity, real-time data processing, device management, analytics, smart city
+integrations, remote monitoring, reporting dashboards, and predictive maintenance.
+Company Policies
+Billing: Monthly billing in advance. Enterprise customers receive consolidated invoices. Late payment after 7
+days may suspend services.
+Refund:  Full  refund  within  7  days  if  usage  is  less  than  10%.  Cloud  services  are  non-refundable  after
+activation.
+3
+Contracts: Individual users have no long-term lock-in. Enterprise customers have a minimum 12-month
+contract.
+SLA: Individual users have 98.5% uptime, business users 99.5% uptime, and enterprise users 99.9% uptime.
+Data Privacy: GDPR compliant, ISO 27001 certified, and encrypted data at rest and in transit.
+Fair Usage: Unlimited plans are capped at 1TB per month.
+Support Tiers: Standard, Priority, and Enterprise Dedicated Support.
+Discounts: Bulk enterprise users can receive up to 30% discount. Annual payment discount is 15%.
+4
