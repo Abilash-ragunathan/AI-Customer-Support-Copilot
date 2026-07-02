@@ -12,19 +12,19 @@ pipeline
 
 from huggingface_hub import InferenceClient
 
-# ==========================
+
 
 # CONFIG
 
-# ==========================
 
-HF_TOKEN = "___hugging_face_token___"
 
-# ==========================
+HF_TOKEN = "___hugging&face_token___"
+
+
 
 # LOAD EVERYTHING
 
-# ==========================
+
 
 @st.cache_resource
 def load_resources():
@@ -90,11 +90,11 @@ chunks,
 client
 ) = load_resources()
 
-# ==========================
+
 
 # INTENT
 
-# ==========================
+
 
 def predict_intent(query):
 
@@ -116,11 +116,11 @@ def predict_intent(query):
                 )[0]
 
 
-# ==========================
+
 
 # SENTIMENT
 
-# ==========================
+
 
 def predict_sentiment(query):
 
@@ -132,11 +132,11 @@ def predict_sentiment(query):
     return result[0]["label"]
 
 
-# ==========================
+
 
 # RETRIEVE CONTEXT
 
-# ==========================
+
 
 def retrieve_context(query):
 
@@ -158,11 +158,11 @@ def retrieve_context(query):
     return context[:1500]
 
 
-# ==========================
+
 
 # CHATBOT
 
-# ==========================
+
 
 def chatbot(query):
     # Predict intent
@@ -187,19 +187,37 @@ Company Information:
 Customer Question:
 {query}
 
-Give a short and professional answer.
+Instructions:
+- Respond in no more than 2 sentences.
+- Keep the response under 40 words.
+- Finish the response completely.
+- Do not end the response mid-sentence.
+- Do not ask multiple follow-up questions.
 """
 
     # Generate response
+    messages = [
+        {
+            "role": "system",
+            "content": "You are a professional customer support assistant for ZENDS Communications."
+        }
+    ]
+
+    for msg in st.session_state.messages:
+        messages.append(msg)
+
+    messages.append(
+        {
+            "role": "user",
+            "content": prompt
+        }
+    )
+
     response = client.chat_completion(
         model="mistralai/Mistral-7B-Instruct-v0.2",
-        messages=[
-            {
-                "role": "user",
-                "content": prompt
-            }
-        ],
-        max_tokens=64
+        messages=messages,
+        max_tokens=100,
+        temperature=0.3
     )
 
     answer = response.choices[0].message.content
@@ -207,46 +225,42 @@ Give a short and professional answer.
     return intent, sentiment, answer
 
 
-# ==========================
+
 
 # STREAMLIT UI
 
-# ==========================
 
-st.set_page_config(
-page_title="AI Customer Support Copilot"
-)
 
-st.title(
-"🤖 AI Customer Support Copilot"
-)
+st.set_page_config(page_title="AI Customer Support Copilot")
 
-query = st.text_area(
-"Enter Customer Query"
-)
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
-if st.button("Generate Response"):
+st.title("🤖 AI Customer Support Copilot")
 
-    if query.strip() == "":
-        st.warning("Please enter a query.")
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.write(message["content"])
 
-    else:
+query = st.chat_input("Type your message...")
 
-        with st.spinner("Processing..."):
+if query:
 
-            intent, sentiment, answer = chatbot(query)
+    st.session_state.messages.append(
+        {"role": "user", "content": query}
+    )
 
-        col1, col2 = st.columns(2)
+    with st.chat_message("user"):
+        st.write(query)
 
-        with col1:
-            st.subheader("Intent")
-            st.success(intent)
+    with st.spinner("Thinking..."):
+        intent, sentiment, answer = chatbot(query)
 
-        with col2:
-            st.subheader("Sentiment")
-            st.info(sentiment)
+    st.session_state.messages.append(
+        {"role": "assistant", "content": answer}
+    )
 
-        st.subheader("Bot")
+    with st.chat_message("assistant"):
         st.write(answer)
 
     
